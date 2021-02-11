@@ -1,0 +1,1021 @@
+
+
+.admin-login input[type=text], .admin-login input[type=password]{
+	height:50px;
+	width:440px;
+}
+.admin-login{
+	margin: 10% 35%;}
+/**/
+.login{
+	background:orange;
+	height:320px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* boostrap menu main i am using now*/
+
+.navbar{
+	background-color: #f0d968;
+	
+}
+.nath{
+	background-color: #f0d968;
+	padding-top: 2em;
+	
+}
+
+.navbar-header{
+	background-color: #f0d968;
+}
+
+.nav{
+   
+   
+    text-align: center;
+    
+}
+
+
+
+ul.nav{
+	background-color: #f0d968;
+	z-index: 1000;
+	
+}	
+	
+ul.nav li a{
+	text-align:center;
+	padding: 18px 45px;
+	text-decoration:none;
+	
+	display:block;
+	z-index: 1000%;
+}
+	
+	
+	
+	
+	
+	
+   .dropdown-menu {
+		min-width: 200px;
+		
+	
+	}
+	
+	.dropdown-menu.columns-2 {
+		min-width: 400px;
+		
+	}
+	
+	
+	.dropdown-menu.columns-3 {
+		min-width: 600px;
+	 
+	   color: #fff;
+	   	}
+	
+	.dropdown-menu.columns-1 {
+		min-width: 600px;
+	
+	   color: #fff;
+	   	}
+	
+	.dropdown-menu.columns-2 {
+		min-width: 600px;
+	
+	   color: #fff;
+	   	}
+	
+	
+	.dropdown-menu li a {
+		padding: 5px 15px;
+		font-weight: 300;
+		
+		
+	}
+	
+	
+	
+	
+	.dropdown-menu li a {
+		padding: 5px 15px;
+		font-weight: 300;
+	}
+	.multi-column-dropdown {
+		list-style: none;
+	}
+	.multi-column-dropdown li a {
+		display: block;
+		clear: both;
+		line-height: 1.428571429;
+		color: #333;
+		white-space: normal;
+	}
+	.multi-column-dropdown li a:hover {
+		text-decoration: none;
+		color: #262626;
+		background-color: #f5f5f5;
+	}
+	
+	
+	@media (max-width: 767px) {
+		.dropdown-menu.multi-column {
+			min-width: 240px !important;
+			
+		}
+	}
+	
+	@media (max-width: 480px) {
+		.content {
+			width: 100%;
+			margin: 50px auto;
+			padding: 10px;
+			
+		}
+	}
+
+
+
+.dropdown-menu {
+		min-width: 200px;
+	}
+	.dropdown-menu.columns-2 {
+		min-width: 400px;
+	}
+	.dropdown-menu.columns-3 {
+		min-width: 600px;
+	}
+	.dropdown-menu li a {
+		padding: 5px 15px;
+		font-weight: 300;
+	}
+	.multi-column-dropdown {
+		list-style: none;
+	}
+	.multi-column-dropdown li a {
+		display: block;
+		clear: both;
+		line-height: 1.428571429;
+		color: #333;
+		white-space: normal;
+	}
+	.multi-column-dropdown li a:hover {
+		text-decoration: none;
+		color: #262626;
+		background-color: #f5f5f5;
+	}
+	
+	@media (max-width: 767px) {
+		.dropdown-menu.multi-column {
+			min-width: 240px !important;
+			overflow-x: hidden;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		.content {
+			width: 90%;
+			margin: 50px auto;
+			padding: 10px;
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* boostrap menu ends here*/
+
+
+.red-color{
+	background-color: #ff0000;
+	height: 1.5em;
+	margin-top: -1.5em;
+}
+
+
+
+/* Tracking number input and bottun starts from here*/
+
+.skin{
+	background-color: #f0d968;
+}
+.tracking{
+	background-color: #f0d968;
+	
+	
+    color: #363d41;
+	text-align: center;
+	margin-top: 1.5em;
+	
+}
+
+
+
+.tracking button {
+  border-radius: 4px;
+  background-color: #003333;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1.8em;
+  padding: 4px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 3px;
+}
+
+
+ .tracking button:hover{
+	background-color: #ff0000;
+	
+}
+
+.tracking input{
+	width: 14em;
+	height: 3em;
+	margin: 0.3em;
+
+
+}
+
+/* FOOTER PAGE */
+
+.footer-contianer{
+	background-color: #1b073a;
+	color: #fff;
+}
+
+.footer-contianer a{
+	color: #fff;
+}
+
+/* About us*/
+
+.about-us-body h2{
+	text-align: center;
+	font-weight: bolder;
+	text-shadow: 2em;
+	text-transform: capitalize;
+}
+
+.about-us-body h4{
+	font-size: 1.5em;
+}
+
+.about-us-power h2{
+	text-align: center;
+	font-weight: bolder;
+	
+}
+.about-us-power h5{
+	text-align: center;
+	font-weight: bold;
+}
+
+.about-us-video{
+	float: right;
+	
+}
+
+.life h2{
+	font-weight: bolder;
+}
+
+
+/* Tracking page*/
+
+.tracking-page-write-up{
+	background-image: url('../images/My-Parcel-Delivery.html');
+	height: 60em;
+	color: #fff;
+	padding-top: 7em;
+	
+}
+.tracking-page-write-up h3{
+	font-weight: bolder;
+	font-size: 2em;
+	margin-left: 2em;
+}
+.tracking-page-write-up h4{
+	margin-left: 2.3em;
+}
+
+
+
+.tracking-page-button a{
+	color: #fff;
+}
+
+.tracking-page-button {
+  border-radius: 4px;
+  background-color: #262053;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1.4em;
+  padding: 15px;
+ 
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: px;
+  height: 3em;
+}
+
+.tracking-page-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+   
+}
+
+.tracking-page-button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+  
+}
+
+.tracking-page-button:hover span {
+  padding-right: 25px;
+ 
+}
+.tracking-page-button:hover span a{
+	color: #fff;
+}
+
+.tracking-page-button:hover span:after {
+  opacity: 1;
+  right: 0;
+  
+}
+
+.tracking-page-button:hover{
+background-color: #ff0000; 
+}
+
+
+.tracking-page input{
+	height: 4.1em;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-color: 
+	border-radius: 4px;
+}
+.tracking-page{
+	padding-top: 3em;
+	margin-left: 4em;
+}
+
+/* index-write up*/
+
+.index-write{
+	background-color: #7d8374;
+	color: #fff;
+}
+.index-write h3{
+	text-align: center;
+	font-weight: bolder;
+}
+
+
+/* FAQ PAGE*/
+
+.faq-page h3{
+	font-size: 2em;
+	font-weight: bolder;
+	
+}
+
+.faq-page{
+	padding-top: 1em;
+	margin-left: em;
+}
+
+
+.faq-page-container{
+	background-color: #f7f4b5;
+	padding-bottom: 3em;
+}
+
+
+/* Second sliders */
+
+.flex-slider{	
+background:#222227;
+padding: 70px 0 165px 0;
+}
+#flexiselDemo1 {
+	display: none;
+}
+.nbs-flexisel-container {
+	position: relative;
+	max-width: 100%;
+}
+.nbs-flexisel-ul {
+	position: relative;
+	width: 9999px;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.nbs-flexisel-inner {
+	overflow: hidden;
+	margin: 0px auto;
+	border-right:none;
+}
+.nbs-flexisel-item {
+	float: left;
+    margin: 0;
+    padding: 0em;
+    position: relative;
+    line-height: 0px;
+	text-align: center;
+}
+.nbs-flexisel-item > img {
+	cursor: pointer;
+	position: relative;
+}
+/*---- Nav ---*/
+.nbs-flexisel-nav-left, .nbs-flexisel-nav-right {
+	width: 22px;
+    height: 69px;
+	position: absolute;
+	cursor: pointer;
+	z-index: 100;
+}
+.nbs-flexisel-nav-left {
+	left: 0%;
+    top: 33% !important;
+    background:none;
+}
+.nbs-flexisel-nav-right {
+	right: 0%;
+    top: 33% !important;
+    background: none;
+}
+/*--//flexisel--*/
+.item-sub{
+	background:url(../images/payonerdelivery.html) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+}
+.item-sub1{
+	background:url(../images/worker2.html) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+}
+.item-sub2{
+	background:url(../images/daar-laptop.html) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+}
+.item-sub3{
+	background:url(../images/daar-deliver.html) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+}
+.item-sub3,.item-sub,.item-sub1,.item-sub2{
+	min-height:180px;
+}
+.item1 i{
+	font-size:2em;
+	color:#fff;
+	top:4em;
+}
+.item1 h3{
+	font-size: 3.5em;
+    color: #fff;
+    margin:3em 0 0em;
+}
+.item1 p{
+	font-size:14px;
+	color:#f5f5f5;
+	line-height:1.8em;
+	margin:0 auto;
+	width:80%;
+}
+.item{
+	position:relative;
+}
+.item .p-mask, .row .product .vm-product-media-container .p-mask {
+    opacity: 0;
+    visibility: hidden;
+    background:rgba(0, 0, 0, 0.72);
+    bottom: 0%;
+    position: absolute;
+    padding:1.5em 1.5em;
+    width: 100%;
+    -webkit-transform: translate3d( 0px, 100%, 0px );
+    -moz-transform: translate3d( 0px, 100%, 0px );
+    -ms-transform: translate3d( 0px, 100%, 0px );
+    -o-transform: translate3d( 0px, 100%, 0px );
+    transform: translate3d( 0px, 100%, 0px );
+    -webkit-transition: all .5s ease 0s;
+    -moz-transition: all .5s ease 0s;
+    transition: all .5s ease 0s;
+    text-align: left;
+}
+.item .p-mask .p-desc{
+    color: #a3a3a3;
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size: 1em;
+}
+.item:hover .p-mask, .row .product:hover .p-mask {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: translate3d( 0px, 0px, 0px );
+    -moz-transform: translate3d( 0px, 0px, 0px );
+    -ms-transform: translate3d( 0px, 0px, 0px );
+    -o-transform: translate3d( 0px, 0px, 0px );
+    transform: translate3d( 0px, 0px, 0px );
+}
+.p-mask h4{
+	color:#0089d2;
+	font-size:1.5em;
+	text-decoration:none;
+	line-height:1.8em;
+}
+.p-mask p{
+	margin: 0;
+    color: #D7D7D7;
+    line-height: 1.8em;
+    font-size: 14px;
+}
+
+
+/* DAAR Express CSS*/
+
+.express-background-color{
+	background-color: #f3f4f5;
+}
+.express-writer h3{
+	text-align: center;
+	font-weight: bolder;
+	color: #363d41;
+	font-size: 2em;
+}
+
+.express-writer p{
+	text-align: center;
+	
+	font-size: 1.2em;
+	
+}
+
+/* DAAR Index CSS*/
+
+.index-write-up h3{
+	text-align: center;
+	font-weight: bolder;
+	color: #363d41;
+	font-size: 2em;
+
+}
+
+.index-write-up p{
+	text-align: center;
+
+	font-size: 1.2em;
+	
+}
+
+/* Shipping.php CSS*/
+
+.shiping-writer h3{
+	text-align: center;
+	font-weight: bolder;
+	color: #363d41;
+	font-size: 2em;
+}
+
+.shiping-writer p{
+	text-align: center;
+	
+	font-size: 1.2em;
+}
+/* ship-online CSS*/
+.ship-online h3{
+		text-align: center;
+	font-weight: bolder;
+	color: #363d41;
+	font-size: 2em;
+}
+
+.ship-online h5{
+	text-align: center;
+}
+
+.ship-online h4{
+	text-align: center;
+}
+
+.ship-online p{
+	text-align: center;
+}
+
+.ship-online-colapse{
+	
+}
+
+/* Oder Supplies*/
+
+.oder-supplies h3{
+			text-align: center;
+	font-weight: bolder;
+	color: #363d41;
+	font-size: 2em;
+}
+
+.oder-supplies p{
+		text-align: center;
+}
+
+/* shiping advice*/
+
+.shiping-advice{
+	text-align: center;
+}
+
+.shiping-advice h3{
+	font-size: 2em;
+	color: #363d41;
+}
+
+.guideline-head{
+	color: red;
+	
+}
+
+/* Industry Solution and also side narv*/
+
+
+/* this is for side menu narv
+.solution-sidenarv{
+
+ list-style-image: url('../images/product-row-arrow.png');
+
+}*/
+
+
+.industry h3{
+	font-size: 2em;
+	color: #363d41;
+	margin-top: 2.5em;
+}
+
+.solution-list{
+	list-style-type: square;
+	text-decoration: none;
+}
+.solution-container{
+	margin-bottom: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+}
+
+/* same-day*/
+.same-day {
+	margin-bottom: 2em;
+}
+.same-day h3{
+	font-size: 2em;
+	color: #363d41;
+	margin-top: 2em;
+	
+}
+.same-day-one{
+	margin-bottom: 2em;
+	padding-left: 2em;	
+}
+.prove{
+	margin-right: 2em;
+	margin-top: 2em;
+}
+/* Mail*/
+.mail-ul{
+	list-style-type: square;
+}
+
+/* Logistice*/
+
+.logistices-logo{
+	background-image: url('../images/glo-our-businesses.html');
+	color: #fff;
+	background-repeat: round;
+
+}
+
+.logistices{
+	color: #fff;
+}
+.logistices-logo h1{
+	
+}
+
+.logistices-logo p{
+	
+	font-weight: bold;
+}
+.logistices-logo h4{
+	
+	font-weight: bolder;
+	padding-bottom: 2em;
+}
+
+.logistics-body{
+	background-color: #f3f4f5;
+	
+}
+
+.logistice-bodyfirst{
+	
+	padding-bottom: 2em;
+    
+}
+.logistics-body h1{
+	
+	text-align: center;
+}
+
+/* freight Transportation*/
+
+.freight-contact{
+	 list-style-image: url('../images/product-row-arrow.html');
+}
+.frieght{
+	list-style-type: square;
+}
+
+/* Application*/
+
+.onlin-application{
+	
+	background-color: #f3f4f5;
+}
+
+.application-tips{
+	background-color: #f3f4f5;
+	padding-top: 2em;
+}
+
+.application-tips-two{
+	background-color: #f3f4f5;
+	padding-top: 2em;
+	padding-left: 2em;
+}
+
+/* About us */
+
+.corporate-one{
+	
+	background-color: #f3f4f5;
+}
+
+.corporater h3{
+	text-align: center;
+	font-weight: bolder;
+}
+.corporater p{
+	text-align: center;
+}
+.efforts h3{
+	font-weight: bolder;
+}
+
+
+/* for tracking php*/
+.odilo{
+	font-family:courier;
+	font-size: 1.3em;
+	
+	
+}
+
+tr.location-blink:first-child{
+	background-color: green;
+	animation: blinker 1s linear infinite;
+	color:white;
+	
+}
+@keyframes blinker{
+	50% {opacity: 0.0;}
+		
+	}
+
+
+/* Policy Privacy*/
+
+.privacy-body-one{
+	background-color: #f3f4f5;
+}
+.privacy-body-inner h3{
+	text-align: center;
+	font-weight: bolder;
+}
+
+.privacy-body-inner p{
+	text-align: center;
+}
+
+.policy-body-one{
+		background-color: #f3f4f5;
+}
+
+.data-collection{
+	list-style-type: square;
+}
+
+/* terms-of-use*/
+
+.terms-of-use{
+	background-color: #f3f4f5;
+	padding-left: 2em;
+	padding-bottom: 2em;
+}
+
+.terms-of-use h3{
+	
+	font-weight: bold;
+}
+
+/* customer-service-center*/
+
+.customer-service-center{
+	background-color: #f3f4f5;
+}
+
+.service-center h3{
+	font-weight: bolder;
+	text-align: center;
+	padding-top: 3em;
+	
+}
+.service-center p{
+	text-align: center;
+	padding-bottom: 3em;
+}
+
+
+
+.business-button {
+  border-radius: 4px;
+  background-color: #003333;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1.8em;
+  padding: 4px;
+  width: 250px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 3px;
+}
+
+
+ .business-button:hover{
+	background-color: #ff0000;
+	
+}
+
+.tracking input{
+	width: 14em;
+	height: 3em;
+	margin: 0.3em;
+
+}
+
+/* vision */
+
+.vision{
+	background-color: #f3f4f5;
+	padding-bottom: 2em;
+}
+.vision-body{
+	background-color: #f3f4f5;
+	padding-bottom: 2em;
+	padding-left: 3em;
+}
+.vision-ul{
+	list-style-type: square;
+}
+
+
+
+
+
+
+
+
+/* WAYBILL FROM HERE*/
+
+form#waybill label, form#waybill input[type=text] {
+	display:block;
+	
+}
+form#waybill{
+	margin: 0 20%;
+}
+form#waybill h2{
+	text-decoration: underline;
+	color: #4136c9;
+}
+form#waybill input[type=submit]{
+	background-color:#cc0000;
+	color:white;
+	padding:0.5em 1em;
+	text-align: center;
+	border:none;
+	cursor:pointer;
+	margin:2em 0;
+	
+}
+
+/* SHIPMENT FROM HERE */
+
+form#shipment_info{
+	margin: 0 30%;
+}
+form#shipment_info input[type=submit]{
+	background-color:#cc0000;
+	color:white;
+	padding:0.5em 1em;
+	text-align: center;
+	border:none;
+	cursor:pointer;
+	margin:em ;
+	
+}
+form#shipment_info h2{
+	text-decoration: underline;
+	color: #4136c9;
+}
+form#shipment_info label, form#shipment_info  input[type=text] {
+	display:block;
+	
+}
+
+.way-enter{
+	margin: 1em 0;
+}
+
+
+
+
+
+
+
